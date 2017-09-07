@@ -1,0 +1,16 @@
+{
+  "name": "lempit-template",
+  "version": "0.0.1",
+  "description": "An empty lempit template to start build new template.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "boilerplate",
+    "lempit",
+    "khaos"
+  ],
+  "author": "Budi Adiono <budiadiono@gmail.com>",
+  "license": "MIT"
+}
